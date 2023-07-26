@@ -1,0 +1,8 @@
+D:\VS курс\CSLyght\CSLyght\bin\Debug\CSLyght.exe.config
+D:\VS курс\CSLyght\CSLyght\bin\Debug\CSLyght.exe
+D:\VS курс\CSLyght\CSLyght\bin\Debug\CSLyght.pdb
+D:\VS курс\CSLyght\CSLyght\obj\Debug\CSLyght.csproj.AssemblyReference.cache
+D:\VS курс\CSLyght\CSLyght\obj\Debug\CSLyght.csproj.SuggestedBindingRedirects.cache
+D:\VS курс\CSLyght\CSLyght\obj\Debug\CSLyght.csproj.CoreCompileInputs.cache
+D:\VS курс\CSLyght\CSLyght\obj\Debug\CSLyght.exe
+D:\VS курс\CSLyght\CSLyght\obj\Debug\CSLyght.pdb
